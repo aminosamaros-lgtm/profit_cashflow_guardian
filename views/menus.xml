@@ -1,0 +1,1 @@
+<odoo> <menuitem id="menu_guardian_root" name="Cashflow Guardian" sequence="10"/> <menuitem id="menu_guardian_analysis" name="Analyses" parent="menu_guardian_root" action="action_profit_cashflow_analysis"/> </odoo>
